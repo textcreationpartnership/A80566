@@ -1,0 +1,628 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cordiall councell, in a patheticall epistle: first written to an eminent professor of religion, for the seasonable preventing of a relaps. Which proving efficacious, is again revised, enlarged, and published for the good of others. As being applyable to many thousands, whose practise is neither answerable to the Gospel, their Christian profession, nor the millions of mercies they have received. By R. Junius.</title>
+            <author>Younge, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80566</idno>
+            <idno type="STC">Wing C6283</idno>
+            <idno type="STC">Thomason E274_16</idno>
+            <idno type="STC">ESTC R209892</idno>
+            <idno type="EEBO-CITATION">99868743</idno>
+            <idno type="PROQUEST">99868743</idno>
+            <idno type="VID">121099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121099)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E274[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cordiall councell, in a patheticall epistle: first written to an eminent professor of religion, for the seasonable preventing of a relaps. Which proving efficacious, is again revised, enlarged, and published for the good of others. As being applyable to many thousands, whose practise is neither answerable to the Gospel, their Christian profession, nor the millions of mercies they have received. By R. Junius.</title>
+                  <author>Younge, Richard.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Paine, and are to be sold by James Crump, in little Bartholomewes Well-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R. Junius = Richarde Younge, whose name appears on the title page of later editions.</note>
+                  <note>A variant has "pateticall" and "efficatious" in title.</note>
+                  <note>Annotation on Thomason copy: "March: 21 1644"; the 5 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121099:1"/>
+            <pb facs="tcp:121099:1" rendition="simple:additions"/>
+            <p>CORDIALL COVNCELL,
+<hi>IN A PATHETICALL</hi>
+EPISTLE:
+Firſt written to an Eminent Profeſſor
+<hi>of Religion, for the ſeaſonable preventing</hi>
+of a RELAPS. WHICH PRO<g ref="char:V">Ʋ</g>ING EFFICACIO<g ref="char:V">Ʋ</g>S,
+<hi>IS AGAINE REUISED, ENLARGED,</hi>
+and publiſhed for the good of others. As being
+<hi>applyable to many thouſands, whoſe practiſe is</hi>
+neither anſwerable to the Goſpel, their Chri<g ref="char:EOLhyphen"/>ſtian
+<hi>profeſſion, nor the millions of</hi>
+mercies they have received. <hi>By</hi> R. Junius.</p>
+            <q>The back-ſlider in heart ſhall bee filled with his owne waies.</q>
+            <bibl>PRO.
+14. 14.</bibl>
+            <q>As they did not like to reteine God in their knowledge, God gave them
+over to a reprobate minde, to doe thoſe things which are not convenient.</q>
+            <bibl>ROM. 1. 28.</bibl>
+            <q>Thy wiſedome and thy knowledge hath perverted thee.</q>
+            <bibl>ISA. 47. 10.</bibl>
+            <q>Yee looked for much and loe it came to little, and when ye brought it
+home, I did blow upon it, &amp;c.</q>
+            <bibl>HAG. 1. 6. 9.</bibl>
+            <q>My ſonne if ſinners intiſe thee, conſent thou not, walke not thou in the
+way with them, refraine thy foote from their path.</q>
+            <bibl>PRO. 1. 10. 15.</bibl>
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Paine,</hi> and are to be ſold by <hi>James Crump,</hi>
+in little <hi>Bartholomewes Well-yard.</hi> 164<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:121099:2"/>
+            <head>CORDIALL COVNSELL
+IN A PATHETICALL
+Epiſtle, written to an Eminent
+Profeſſor of Religion: For the
+ſeaſonable preventing
+of a Relaps.</head>
+            <opener>
+               <salute>Curteous Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F you aske why I take this paines, turne to <hi>Levit: 19. 17. Heb.</hi> 3. 13. If for a preſident
+take that of <hi>Photion,</hi> who when a friend of his would have caſt himſelfe away, ſuffered
+him not ſaying, I was made thy friend to this purpoſe. And he that loves not ſuch a
+friend, hates himſelfe: Or is a foole, for he that is a friend to our faults, is no friend
+to our ſelves. I confeſſe, one maine motive to induce me was: I called to remembrance
+the invaluable good, which redowned to my ſoule: by meanes of a poore mans plaine,
+full, free, faithfull, and timely admoniſhing of me.</p>
+            <p>
+               <hi>And is there not a cauſe of my uttmoſt endeavour? when you that have</hi> knowne the way of righte<g ref="char:EOLhyphen"/>ouſneſſe,
+and had <hi>for ſome time</hi> eſcaped the polutions of the world: through the knowledge of our Lord,
+and Saviour Ieſus Chriſt: Doe againe ſeeme to be intangled therein, and turne from the holy comman<g ref="char:EOLhyphen"/>dement.</p>
+            <p>If you demand wherein, I anſwer, what is it other when you will be drawn to the <hi>Taverne</hi> by every idle
+Soliſiter; &amp; there be detained whole houres, yea many houres in drinking; even againſt your ſtommake, &amp;
+conſtitution of body, againſt your judgement, the checks of your own conſcience, the motions of Gods
+ſpirit, the earneſt dehortation of your godly friends and many vowes to the contrary: though you much
+abhor and condemne it. To the ſpending of your money, waſting of your precious time, abuſing the crea<g ref="char:EOLhyphen"/>tures,
+(which thouſands better then you want) wounding of your good name, impayring of your health,
+prejudice of your peace, diſcredit of the Goſpel and Profeſſors thereof: the ſtumbling of weake ones,
+the incouraging of indifferent and unreſolved ones, the foreſtaling and hardning of your Aſociates, and
+all other enemies who know or heare of it.</p>
+            <p>Is this according to the Apoſtles rule. 1 <hi>Theſ. 5. 22. Abstaine from all appearance of evill?</hi> Is this
+to <hi>hate even the garment that is ſpotted by the fleſh? Iude</hi> 23. Is this becomming one, who is ſo ſtrict
+touching Ceremonies; one who out of tendernes, ſeparates from our publique Aſſemblies? Yea, to
+ſpeake plainely, is not this to <hi>straine out a Gnat, and ſwallow a Cammell?</hi> Admitt men tearme you an
+Hypocrite, (for ſo they will doe) what can be ſaid in your defence? Is not this to reſemble the <hi>Prieſts,
+Scribes and Elders;</hi> who intending to murther the <hi>Sonne of God;</hi> yet feare to be defiled, with the
+touch of <hi>Pilates</hi> pavement?</p>
+            <p>Conſider of it ſeriouſly, and tell me if you can, where, or in what part of Gods word, you find a war<g ref="char:EOLhyphen"/>rant
+for your ſo doing, for where is no precept, there is no promiſe. If we want <hi>Gods word,</hi> in vaine doe
+we looke for his ayde. We may truſt him, we may not tempt him.</p>
+            <p>Our heavenly father hath promiſed, to <hi>give his Angels charge over us, to keepe us in all our waye<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.
+Pſal</hi> 91. 11. That is, in the wayes of obedience, or the wayes of his commandements; but this is one of
+the Devils wayes, a way of ſinne and diſobedience; and therefore hath no aſſurance of protection And
+miſerable is that man, who in unwarrantable actions is left to his own keeping, for weſts and ſtrayes,
+are properly due to the Lord of the ſoyle, even the <hi>God of this world, 2 Cor.</hi> 4. 4. So long as we hold
+the tenure of obedience, we are the Lords ſubjects; and if we ſerve him, he will preſerve us. Neither
+need we vex our ſelves with cares, as if we lived at our owne coſt, or truſted to our owne ſtrength; but
+when a man is falne to the ſtate of an our-law, or rebell, the Law diſpenſeth with them that kill him, be<g ref="char:EOLhyphen"/>cauſe
+the Prince hath excluded him from the benefit of his protection. And indeed why do we pray <hi>not
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be led into temptation?</hi> if we lead our ſelves into it. If we will not keepe our ſelves from the occaſion
+<pb n="2" facs="tcp:121099:3"/>
+God will not keepe us from the ſinne; and if God doe not keepe us, we cannot be keept, we cannot, we
+will not chooſe but fall.</p>
+            <p>
+               <hi>Ob.</hi> But you have ſet bounds to your ſelfe, beyond which you will not paſſe.</p>
+            <p>
+               <hi>Anſ.</hi> It is hard for the beſt man to ſay, how farre he will be tempted. If one will put himſelfe into
+lewd company, he cannot promiſe to come forth innocent. How many have falne into a faſhion of
+ſwearing, ſcoffing, drinking, out of the uſuall practice of others. Yea, when once a man gives himſelfe
+over to be the companion of vice, in the end he becomes the very ſlave of vice. And little doe you know
+or conſider, the inſinuative power of evill, or the treachery of your owne heart in receiving it, or the im<g ref="char:EOLhyphen"/>portunity
+of wicked deceivers in obtruding it, you will be the worſe for their ſociety, and perceive it
+not: for no man proves extreamely evill on the ſuddaine; but through many inſenſible declinations,
+doe we fall from vertue.</p>
+            <p>Satan workes men by degrees, (and not all at once) to the height of impiety. <hi>David</hi> at firſt was ſo
+tender of conſcience, that the <hi>lap of Sauls garment</hi> greived him to the heart, but giving way to his own
+corruptions, and Satans temptations; to what a heigth of ſin was he riſen? At firſt he only looſed the
+raines to idleneſſe, from idleneſſe he proceedes to luſt, from luſt to drunkenneſſe, from drunkenneſſe to
+murther, &amp;c. And how many have declined, from a vigorous heate of zeale, to a temper of luke-warme
+indifferency? and then from a careleſſe mediocritie, to all extremity of debauchednes? and ſo of hope<g ref="char:EOLhyphen"/>fnll
+beginnings, have ended in incarnate Divels.</p>
+            <p>Frequencie in ſin, takes away the ſence of ſinne; as a man may looke ſo long upon the <hi>Sun,</hi> that he
+ſhall become blind, and not ſenſible of any light it hath. Oh how the ſoule that gives way to ſin is gay<g ref="char:EOLhyphen"/>ned
+upon by cuſtome? and when once cruſted over with cuſtome, no hope of returning, And what doe
+thoſe agents for the Divell drunkards aime at? or practice more then the art of debauching men? as
+what will they not doe or ſpend; to make a ſober man a drunkard. Yea, let but a religious man fall in<g ref="char:EOLhyphen"/>to
+their company, as a purſe of money may fall into a ſtinking privie: how will they wind him in to
+drinke by little and little? How will they conſpire to provoke his unwilling appetite? with drunken
+healthes. And in caſe they can never ſo little prevaile, O then they will ſing and rejoyce, as in the diviſion
+of a ſpoile, and brag that they have drenched ſobriety, and blinded the light, and ever after be a ſnuffing
+of this Taper. <hi>Pſal.</hi> 13. 4.</p>
+            <p>And is it not a faire credit, for you and the Goſpel? that they ſhould boaſt when you are gon, that
+you make great ſcruple of praying with them, but none of being drunke with them? That you have a
+good mind to pleaſe God, but a greater to pleaſe the world? Good ſir remember your vow in baptiſme
+confirmed againe at your firſt converſion, and often renewed at the Lords table and in time of affliction,
+Remember what <hi>Chriſt</hi> hath done for your ſoule, and whether you were not divorc't from the
+world when married to him.</p>
+            <p>It is not for ſuch as have given up their names to <hi>Chriſt,</hi> and weare his Livory to conſort with, or con<g ref="char:EOLhyphen"/>forme
+to, the faſhions of the world: much leſſe to her leude cuſtomes. Or if they doe, the more emmi<g ref="char:EOLhyphen"/>nent
+the perſon, the more notorious the corruption: both in reſpect of others, and themſelves. For,</p>
+            <p>In regard of others; better many <hi>Iſraelites</hi> commit Adultery, or Idolatry, then one <hi>David</hi> or <hi>Solo<g ref="char:EOLhyphen"/>mon.</hi>
+For many <hi>Iewes</hi> to deny <hi>Chriſt,</hi> was not ſo much as for one <hi>Peter.</hi> Yea, if all the Cities of the
+world had done filthily, it were ſhort of this wonder: <hi>The Virgin daughter of Sion, is become an har<g ref="char:EOLhyphen"/>lot.
+Iſay</hi> 1. 21. And likewiſe in reſpect of themſelves. For their ſinne is, and their puniſhment ſhall be
+greater. The more glorious the <hi>Angels</hi> excellency, the more damnable their Apoſtacie. If <hi>Iudas</hi> prove
+a villaine, how miſcheivous is his villanie. If the light become darkeneſſe how great is that darkeneſſe?
+Yea, if that we call vertue turne into vice, the ſhame is triple.</p>
+            <p>And as the ſinne of ſuch is greater, ſo ſhall their puniſhment be if they apoſtatize, <hi>Iulian,</hi> and <hi>Lucifer</hi>
+had beene leſſe damned, if the one had not beene a Chriſtian, and the other an Angel of light. However
+men live or dye, without the pale of the Church, a wicked profeſſor, ſhall be ſure of plagues.</p>
+            <p>
+               <hi>Ob,</hi> But I was never yet diſtempered with drinking, nor I hope ever ſhall be; neither are thoſe
+drunkards which you tax me with<g ref="char:punc">▪</g> but loving friends and cuſtomers.</p>
+            <p>
+               <hi>Anſ. They that tarrie long at the wine,</hi> are drunkards in <hi>Solomons</hi> dialect. <hi>Pro.</hi> 23. 30. He that
+drinkes to much for his purſe, too much for his calling and occaſions, too much for his health and quiet,
+of body or mind; he that drinkes more for luſty or pride, or coveteouſneſſe, or feare, or good fellowſhip,
+or to drive away time; or to ſtill conſcience, then for thirſt; is a drunkard in <hi>Gods</hi> account, whoſe law
+extends even to the heart and affections <hi>Mat.</hi> 5. 28. And know this that you ſhall give an account, for
+<pb n="3" facs="tcp:121099:3"/>
+every Idle peny, and houre you ſpend; and for every cup of drinke, you ſpoile, or waſt.</p>
+            <p>Beſides, little doe you know what will be the event; for of all other ſinnes this ſinne, (and covete<g ref="char:EOLhyphen"/>ouſneſſe,
+which I take to be the maine roote, or cauſe of it in you) increaſeth with age. Nor did I ever
+know one once falne into it, ever get out of it. Which makes <hi>St. Auſtine</hi> compare it to the pit of <hi>Hell;</hi>
+out of which there is no hope of redemption. I confeſſe, a drunkard may have many good purpoſes to
+forſake his ſin; as I have knowne ſome both purpoſe and ſtrive againſt the ſame, yea deteſt, and bewaile
+it; yea indent with himſelfe, and his friends to relinquiſh it; but never knew one get the maſtery of it.
+For let him but meet a companion that holds but up his finger, he followes him <hi>as a foole to the ſtocks,</hi>
+and <hi>as an Ox to the ſlaughter houſe;</hi> having no power to withſtand the temptation. Oh the difficulty of
+diſpoſeſſing, a drunken divell.</p>
+            <p>And no marvell; for (beſides, that by a long, and deſperate cuſtome, they turne delight, and infirmity
+into neceſſity; (ſo that without wine, they are ſicke, having by a kind of frequency made other mens
+phyſicke their naturall food) And bring upon themſelves ſuch an inſatiable thirſt; that they will as
+willingly leave to live, as leave their exceſſive drinking.) <hi>Wine takes away the heart, Hoſea</hi> 4. 11. Yea,
+drunkenneſſe beaſtiates the ſoule, and ſpoiles the braine, overthrowes the faculties and organs of repen<g ref="char:EOLhyphen"/>tance.
+Againe, by it the ſpi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it is quenched, <hi>Epheſ.</hi> 5. 18. and the body of ſinne with its luſts ſtrengthe<g ref="char:EOLhyphen"/>ned.
+If the Divell comes in, the Holy Ghoſt will goe out; and then what ſhould hinder a man from run<g ref="char:EOLhyphen"/>ning
+head long to hell?</p>
+            <p>When the belly is fild with wine, Satan may ſtampe in that heart, the fowleſt ſinne. But luſt will ad<g ref="char:EOLhyphen"/>mit
+no deniall <hi>Pro.</hi> 23. 29 to 35. You ſhall rarely ſee a man continent, that is not abſtinent. I need
+not tell you, how Satan, and thoſe two ungracious daughters prevailed with <hi>righteous Lot</hi> when he
+was drunke; though he never intended either drunkenneſſe, or inceſt. Nor how your predeceſſor fell in<g ref="char:EOLhyphen"/>to
+that ſinne of adultery; for I dare ſay, (and you will not deny it) that his drinking, was the maine and
+only cauſe of his drabbing; which hath beene the caſe of many noted profeſſors that I could name.</p>
+            <p>And take heed, (for I feare it exceedingly) leaſt God give you over to adultery, as you give your ſelfe
+over to drunkenneſſe<g ref="char:punc">▪</g> Nay, hath he not told you already what he will doe (if you continue to provoke
+him) by what he hath done? As why hath he given you over to this ſottiſh and ſordid cuſtome, of re<g ref="char:EOLhyphen"/>ſorting
+to, and conſorting with theſe baſe places and perſons, for ſeldome or never doth God give any of
+his over, to this more then brutiſh ſinne: but ſome particular provoaking cauſe went before it. 2 <hi>Sam.</hi>
+21. 1. Shall I gueſſe what that cauſe is, from what I have obſerved in others of your temper? mind it
+ſeriouſly, for I ſhall goe neere to ſtrike that veine, from whence ariſes all your diſtemper. <hi>God</hi> hath en<g ref="char:EOLhyphen"/>dowed
+you with ſtrength of braine, ſweetneſſe of nature, and other eminent parts (great bleſſings I grant
+being well uſed, but if the mind doe not anſwer, they were better miſt: for theſe (eſpecially the firſt)
+not ſeldome prove by accident, ſtrong barres to keepe the owners out of heaven. 1 <hi>Cor.</hi> 1. 18. to 30.)
+and this hath made you proud, even <hi>to the diſpiſing of others.</hi> Yea, parhaps to depend more upon your
+gifts then the givers aid. And to <hi>ſtand more upon the praiſe of men, then the favour of God. 1 Sam.</hi> 15.
+30 <hi>Iohn</hi> 12. 42. 43. Whereupon he hath left you in ſome meaſure, that ſo you may ſee your nothing<g ref="char:EOLhyphen"/>neſſe,
+and your need of him: And be forc't to confeſſe, that ſelfe confidence, is pride without wit. And in<g ref="char:EOLhyphen"/>deed
+experience hath taught all humble chriſtians, that confidence in God does only ſupport us: and that
+without him; we are like Vines unpropt, which on the earth doe craule.</p>
+            <p>And this hath ever beene Gods mannor of dealing, even with his owne. Witneſſe <hi>Adam, Sampſon, Sal<g ref="char:EOLhyphen"/>loman,
+Aſa, Hezekiah, James and Iohn.</hi> Yea if <hi>Saint Paul</hi> begin to be <hi>exalted</hi> ſome ſuch <hi>meſſenger of
+Satan</hi> ſhall ſoone be ſent to <hi>take him downe againe, 2 Cor.</hi> 12. 7. Of if <hi>Peter</hi> but once dreame, that he <hi>is
+not as other men; Chriſt</hi> will ſoone humble him with the ſhame of his miſdoing. <hi>Mat.</hi> 26 33. 34. 72. 74.
+And ſeldome does pride ſpeed better. Neither can there be a worſe ſigne, of enſuing evill, then for a man
+in a carnall preſumption, to be puft up with an opinion of his owne abilities. And how juſtly doth <hi>God</hi>
+ſuffer that man to be foyled; purpoſely that he may be aſhamed of his owne vaine, ſelfe confidence.</p>
+            <p>But thus hath <hi>God</hi> dealt with you, yet your eyes are not opened, your heart is not humbled. Yea, he
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath gone further with you, for whereas your reputation hath beene more cared for then your <hi>God;</hi> and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll was well, while you were well eſteemed; is not your good name at the ſtake, and your former fame,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt woefully blaſted by keeping ſuch company? (in which religion alſo ſuffers) yea, have you not irre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>verably
+loſt your credit? for an evill report, (like an unruly ſpirit) once raiſed, is hard to be conjured
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wne againe. And a mans good name, is much eaſier kept then recovered. And hath not your pride, ori<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nally
+procured it alſo; I meane from <hi>God,</hi> though your conforming to this leude and ſcandalus cu<g ref="char:EOLhyphen"/>ſtome,
+<pb n="4" facs="tcp:121099:4"/>
+hath occaſioned it from men. Hath not ſelfe conceitedneſſe broken your credit? for as our <hi>heaven<g ref="char:EOLhyphen"/>ly
+Phyſition</hi> knowes there is no <hi>Plaiſter</hi> like this to <hi>pull downe proude fleſh:</hi> So he hath accordingly
+decreed, that while we thinke well of our ſelves, others ſhall never thinke well of us.</p>
+            <p>And the ſame method he uſes himſelf, for the more lowly we are in our owne eyes, the more lovely
+we are in <hi>Gods;</hi> and the more deſpiſeable in our ſelves, the more acceptable in him. Oh that we could be
+but as lowly, as we are unworthy.</p>
+            <p>Thus the Lord hath ſpoken to you once, twice, and that in an eaſie, and familiar Scripture phraiſe. Yea,
+he hath puld away his hand from you, and let you falne two ſtories from what you were not many yeares
+ſince. Yet you neither heare him, nor take notice of his departure. What are you turned foole, is wiſedome
+departed from you? Or would you have <hi>Jezabels</hi> fare? be daſht in peices, and that for ever, would you be
+let runne on like <hi>Abſolom;</hi> whoſe cheife pride lay in his haire, and that became his haulter. Looke to it
+for God will firſt or laſt, make you know your ſelfe if you belong to him. And at the next bout, caſt you
+downe to the very ground, and if that will not ſerve, one foot ſhall ſlip into <hi>Hell;</hi> that it may be a
+meanes through his bleſſing, to further, and forward you in the way to <hi>Heaven,</hi> as it fared with the <hi>inſe<g ref="char:EOLhyphen"/>stious
+Corinthian; Cor 5 5. 2 Cor.</hi> 2. 6, 7, 8. I meane he will either lay upon you ſome ſore affliction,
+or let you fall into ſome other foule ſinne, viz. Adultery, Murther or the like, though none ſo likely as
+adultery Remember what I ſay, for beſides the neere affinity betwixt drunkenneſſe and whoredome, how
+many proude men have beene healed by the ſhame of their uncleanneſſe; how many drunkards by a raſh
+bloud ſhed, &amp;c. So one Devill being uſed, for the ejection of another, for God can (and not ſeldome
+does ſo) make of the fouleſt <hi>Scorpion,</hi> a <hi>Mediſen</hi> againſt the <hi>ſting of the Scorpion.</hi> Neither doe proude
+men ſaith <hi>Saint Auſtin,</hi> looſe ſo much by their falling: as they get by being downe: their repentance
+being true and ſound. As the examples of <hi>David,</hi> and <hi>Peter</hi> prove, for of the two, to be a <hi>Phariſe,</hi> is
+worſe then to be a <hi>Publican.</hi>
+            </p>
+            <p>But as there is no rule ſo generall, which admitts not of ſome acceptions: ſo this does not alwaies hold
+good, for whereas thouſands have been brought to repentance, by their ſinne and the ſhame of it: as not
+ſeldome does the <hi>Gallowes</hi> it ſelfe, produce this bleſſed fruit; you have rarely ſeene a ſtrong brained <hi>Ioab,</hi>
+or cunning <hi>A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hittophell</hi> one jot bettered thereby. As what one ſtates man or pollititian, ſuch as the <hi>Earl
+of Strafford,</hi> the <hi>Arch Biſhop of Canterbury</hi> and the like, can you nominate: that (when God hath culd
+them out, to make them publique examples of his juſtice here) have been truly humbled by the <hi>Axe</hi> or
+<hi>Haulter?</hi> I confeſſe, I have in ſuch a caſe ſtrong hopes, that God in great mercy hath brought them to the
+<hi>barre</hi> here, <hi>that their ſoules might be ſaved in the day of the Lord Ieſus. 1 Cor.</hi> 5. 5. But having ſtudied the
+point, I find more in it then ſo: for ſhould ſuch men glorifie God, in acknowledging their cleere ſight, and
+wiſedome which they and others have ſo magnified for cleereneſſe, to bee meere blindnes, and darkenes,
+and ignorance <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>their Religion, Superſtition, &amp;c. they ſhould looſe the reputation of wiſedome, and of
+brave men be reputed baſe. And rather then they will ſtoope ſo low, they will hazard what ſhall follow: for
+to them even <hi>Heaven</hi> and <hi>Hell,</hi> are but uncertainties.</p>
+            <p>And what is the cauſe of this their folly? but their wiſedome (As the act of ſeeing is as well hindered
+by too much light, as by no light at all) <hi>Thy wiſedome and thy knowledge they have perverted thee</hi>
+ſaith the <hi>Prophet Iſaiah</hi> Chap. 47. 10. And how ſhould it other? for <hi>the wiſedome of the fleſh is enmity
+againſt God. Rom.</hi> 8. 7, 8.</p>
+            <p>But leaſt this ſhould not ſatisfie, obſerve further who they were that beleived <hi>our Saviours</hi> preaching:
+that were converted, and ſaved by him. Not the <hi>Prieſts, Scribes,</hi> and <hi>Phariſes:</hi> who were matchleſſe for
+their wiſedome and knowledge, and that in the letter of the <hi>Scriptures;</hi> but the common people whom
+thoſe great Clarkes diſpiſed, and held <hi>accurſed.</hi> Alaſſe they were too wiſe to goe to Heaven, or to beleive
+in a crucified Saviour, ſo verifying that of the Apoſtle, <hi>Profeſſing themſelves to be wiſe, they became fooles.
+Rom.</hi> 1. 22. And making good that charge of our Saviour, who called them foure times in one chapter
+<hi>blind,</hi> and twice Fooles. <hi>Mat</hi> 23. 17. 19, 24. 26.</p>
+            <p>And as it faired with them, ſo <hi>Saint Paul</hi> found it to faire with the <hi>wiſe Sages</hi> among the <hi>Gentiles;</hi>
+whom <hi>the preaching of the Croſſe, was meere fooliſhnes; 1 Cor.</hi> 1. 23. And the ſame in <hi>Saint Auſtin</hi>
+time, for <hi>Iulian the Pelagian</hi> could deride that holy Father: that he had not the <hi>wiſe Sages</hi> nor the
+<hi>Learned Senate of Philoſephers</hi> on his ſide: but only a company of meane <hi>trades men,</hi> and <hi>handy crafts
+men,</hi> of the vulgar ſort, that tooke part with him.</p>
+            <p>And wherein does our times differ? How many worldly wiſe men have you knowne ſinceerly religious
+or to ſubmit to the ſimplicity of the <hi>Goſpel,</hi> in conforming their lives thereunto. How many that have
+<pb n="5" facs="tcp:121099:4"/>
+               <hi>forſaken Lands, Liberty, Livings, creadit,</hi> or other their <hi>worldly immunities to follow Chriſt?</hi> Or that
+have been any whit zealous for <hi>Gods glory?</hi> in promoting the beſt things, and oppoſing the contrary?
+very few I dare ſay, in compariſon of meaner judgements. No, they ſcorne to be <hi>ſingular,</hi> or counted pre<g ref="char:EOLhyphen"/>ſize:
+Or indeed ſo ſimple as <hi>Abraham,</hi> who beleived <hi>God</hi> upon his bare word, thought it were againſt rea<g ref="char:EOLhyphen"/>ſon,
+and obeyed his voice in ſacrifyſing that ſonne, wherein lay all his hopes, without diſputing the mat<g ref="char:EOLhyphen"/>ter.
+Or <hi>Saint Paul,</hi> who when <hi>God</hi> ſent him on an unlikely, and unwellcome errand: did not <hi>communi<g ref="char:EOLhyphen"/>cate
+with fleſh and bloud,</hi> but yeelded obedience without further diſpute. <hi>Gal.</hi> 1. 16. No, <hi>God</hi> muſt give
+them a reaſon of the caſe, before they will yeeld to him their aſcent. And were it not ſo, Why ſhould the
+ſame <hi>Saint Paul</hi> ſay? <hi>Not many wiſe men after the fleſh are called, but God hath choſen the fooliſh
+things of this world to confound the wiſe, &amp;c. 1 Cor.</hi> 1. 26, 27, 29. Or why ſhould our Saviour ſay?
+<hi>I thanke thee O father, Lord of heaven and earth: becauſe thou haſt hid theſe things from the wiſe, and
+men of underſtanding, and haſt revealed them unto babes. Mat. 11. 25. Luke</hi> 10. 21. So that lay all to<g ref="char:EOLhyphen"/>gether,
+and it amounts to this: <hi>More hope of a fooles being reformed, then of theirs that are ſo exceeding
+wiſe. Iohn 9. 39. Pro</hi> 26. 12. I confeſſe there is a poſſibilitie of their being as wiſe for heaven, as they are
+for this world: but then they muſt ſubmit to <hi>Saint Pauls</hi> councell. 1 Cor. 3. <hi>Let no man deceive himſelf,
+if any man among you ſeemeth to be wiſe in this world: let him become a foole, that he may be wiſe: for
+the wiſedome of this world is fooliſhneſſe with God.</hi> verſe 18. 19. Let him denie his owne carnall reaſon,
+ſubmit his wiſedome to <hi>Gods,</hi> and eſteeme nothing folly but diſobedience, nothing ſilly that is not ſin<g ref="char:EOLhyphen"/>full,
+nothing true wiſedome, but that which is done according to the rule of <hi>Gods word,</hi> and tendeth to
+his glory<g ref="char:punc">▪</g> our neighbors well faire, and the furthering of our owne ſalvation, and then he ſhall be wiſe in<g ref="char:EOLhyphen"/>deed.
+<hi>Deut.</hi> 4. 5, 6. Even as that which is on our left hand, will be on our <hi>right,</hi> let us but turne our
+ſelves.</p>
+            <p>Nor is it more the cauſe of Luſt, then of all other ſinnes: as hiſtory, and daily experience proves.
+For drunkenneſſe as one fitly tearmes it, is the roote of all evill, the rott of all good.</p>
+            <p>Wherefore not only hate it, as the moſt prodigious, foule, and filthy feind: but ſhun the company of
+all ſuch, who in any meaſure, are adicted to it.</p>
+            <p>Neither account them friends: for <hi>who ſo will be the friends of ſuch, make themſelves the enemies of
+God. James</hi> 4. 4. And of all enemies, they are the deadlieſt; as being traytors to the ſoule who endea<g ref="char:EOLhyphen"/>vour,
+as much as in them lyes to ſlay the beſt part eternally.</p>
+            <p>As for their kindneſſe, thoſe <hi>cunning Hypocrites,</hi> never intend ſo ill; as when they ſpeake faireſt. Nor
+can you keepe too farre from their flattering, and <hi>Syren-like-aluerments.</hi> For by their kind words, they
+will ſo worke upon your yeelding nature; that you will not be able to deny, untill they alimulat
+you to their owne cuſtomes. And their company is ſo infectious, that they will worke a conſumption of
+your vertues; and waſt them from an ounce to a dram, from a dram to a ſcruple, to a graine to nothing;
+before you be aware of it. You know how it faired with <hi>Peter,</hi> falling but once into the company of
+<hi>Chriſts</hi> enemies; and if ſuch a <hi>Cedar</hi> as he fell, the very firſt time; what probabilitie is there of your
+ſtanding? when you are daily converſant with ſuch, yea worſe; for this let me aſure you.</p>
+            <p>Temptations on the right hand, have commonly ſo much more ſtrength in them above the other; as
+the right hand hath above the left. <hi>Satan</hi> wins not ſo much by battery, as by treachery. When all the
+<hi>Philiſtems</hi> could not with their ſtrength bind <hi>Sampſon: Dalilab</hi> did it with her ſubtilty The <hi>Devill</hi> did
+not appeare to <hi>Chriſt</hi> with threats, but with faire promiſes of honour, pleaſure, profit: whence the <hi>Itali<g ref="char:EOLhyphen"/>an</hi>
+thinketh himſelfe, upon the point of being bought and ſold; when he is better uſed then he was
+wont to be, without manifeſt cauſe.</p>
+            <p>
+               <hi>Satan</hi> and his inſtruments, like a flattering <hi>Hoſt;</hi> may promiſe good cheer, but the reckoning paies for
+all; and he that compares the wellcome with the farwell, ſhall find he had better have faſted; for if we
+ſwallow the baite, the hooke will choake us.</p>
+            <p>But to eſcape their aluerments, requires courage to deny the requeſts of a ſeeming friend. For what but
+a proude, ignorant, and timmorus baſhfullneſſe. makes men thus miſerably ſinne againſt <hi>God,</hi> and wrong
+their owne ſoules. It is nothing but want of courage, that makes many a drunkard One principall meanes
+to fill <hi>Hell,</hi> is loathneſſe to diſpleaſe; whence it is that the fearfull, are placed in the fore-front of
+that damned crue: who <hi>ſhall be caſt into the lake of fire and brimſtone Revel.</hi> 21. 8.</p>
+            <p>I confeſſe baſhfullneſſe and modeſty in ſome caſes, are very commendable: but it is an ill modeſty,
+that hinders a man in the way to bliſſe. And a great indiſcreſſion, to feare more the blaſts of mens breath,
+<pb n="6" facs="tcp:121099:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:121099:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:121099:6"/>
+then the fire of <hi>Gods wrath,</hi> For what is this other, then with the foole, to leape into the water, for
+feare of being drownd in the boate? And he that hath either wit or grace, will rather fall out with all the
+world<g ref="char:punc">▪</g> then with his <hi>maker,</hi> then with his <hi>conſcience.</hi> Yea, a magnanimous Chriſtian, will looſe his
+life, rather then the peace of a good conſcience. And indeed, it is pitie that ever the water of <hi>Baptiſme,</hi>
+was ſpilt upon his face; that cares more to diſcontent the <hi>world,</hi> then to wrong <hi>God.</hi>
+            </p>
+            <p>But as touching their diſlike, who may you thanke for it but your ſelfe? in begining ſuch a cuſtome;
+for if you had denied them at firſt, they would never have expected it afterwards. Yea, they would have
+honoured you the more, for your refuſing; as my ſelfe and many others can witneſſe, out of grounded ex<g ref="char:EOLhyphen"/>perience.
+But ſince you have proceeded thus farre, there is only one way to avoide it; Reſolve to drinke
+with none, and then none can take acceptions.</p>
+            <p>But to reſolve is nothing, except you pray (and that earneſtly) for divine aſſiſtance; wreſting wholly,
+and only, upon <hi>God</hi> for ſtrength and ſucceſſe. Neither is that enough, except you alſo uſe the meanes;
+that is, as <hi>Ioſeph</hi> no ſooner heard his miſtreſſe ſay, come let us lye together, but he left her, and fled away:
+ſo if you but heare them ſay, come let us drinke together; be ſure to leave them though without taking
+your leave of them. Entertaine no parlie with ſuch, for there is no diſputing with <hi>Satan</hi> or his deputies:
+When <hi>Caſtles</hi> come once to a parley, there is great feare they will yeeld. <hi>Satan</hi> deſires no more then to be
+heard ſpeake. As what thinke you? If that <hi>old Serpent</hi> and Sophiſter, did ſo eaſily perſwade <hi>Eve</hi> by him<g ref="char:EOLhyphen"/>ſelfe,
+and <hi>Adam</hi> by her; to believe what he ſpake, though they had heard <hi>God</hi> himſelfe ſay the contra<g ref="char:EOLhyphen"/>ry
+immediately before: what hope have we to ſtand out, being ſo extreamely degenerated? If they in the
+ſtate of innocencie, when they had wit at will, and their reaſon at command; found him too hard for
+them, when they fell once to argue the caſe with him, how much more too weake ſhall we find our
+ſelves? that are as we are, and when our owne <hi>fleſh</hi> is become our enemie, and his cunning Soliciter. It
+is not ſafe to commit a little <hi>Wherry</hi> to the <hi>Seas</hi> violence, much leſſe to put <hi>flax</hi> to <hi>fire,</hi> or a <hi>match</hi> to
+dry <hi>powder.</hi> A <hi>ſtick</hi> that hath once beene in the <hi>fire,</hi> much more a <hi>Torch</hi> newly <hi>extinguiſhed;</hi> being
+forthwith put to the <hi>flame,</hi> will ſoone be kindled againe.</p>
+            <p>
+               <hi>Ob.</hi> But by ſlighting them, I ſhall loſe all my customers; and others will be glad to humor them, for
+all trades men doe the like, both in Citie and country, would you have me undoe my ſelfe, that have no<g ref="char:EOLhyphen"/>thing
+but my trade to live by? this were to make my ſelfe ſcorned, and derided of all.</p>
+            <p>
+               <hi>Anſ.</hi> Are you convinced in your conſcience, that to drinke without thirſt, to looſe your time,
+to ſpend your money, to waſt the good creatures, to diſgrace Religion, to harden them in their wicked
+practiſes, &amp;c, is evill, and diſpleaſing to <hi>God?</hi> (for I hope you denie not the <hi>Law</hi> to be a rule for us to
+walke by, and ſquare all our actions; as doe ſome <hi>Antinomians;</hi> who take the ready way to pluck
+up all holineſſe and piety by the rootes.) If ſo, it is eaſie to determine; for as this only evidences a good
+conſcience, when the maine weight which ſetts the wheeles of our hearts on worke, is the conſcience of
+<hi>Gods commandement,</hi> ſo that which is abſolutely evill, can by no circumſtances be made good. Nei<g ref="char:EOLhyphen"/>ther
+is the leaſt evill to be adventur'd one, for the greateſt good which commeth by accident. Neither ſay
+that it is a ſmall ſinne, for admit it were ſo comparatively, yet even the leaſt ſinne in its owne nature is
+not only mortall, but reſts unpardonable: ſo long as it is willingly committed, and excuſed or defended.
+And ſuch have no good conſciences, that dare gratifie <hi>Satan</hi> in committing the leaſt ſinne, or neglect <hi>God</hi>
+in the ſmalleſt precept. Will any eate poyſon, becauſe there is but a little of it? And what ſaith our Savi<g ref="char:EOLhyphen"/>our?
+<hi>He that is faithfull in that which is least, is faithfnll alſo in much: and he that is unjuſt in
+the leaſt, is unjuſt alſo in much, Luke</hi> 16. 10. He that will corrupt his conſcience for a pound, what
+would he doe for a thouſand. And one ſinne (were it but one,) keepes poſeſſion for <hi>Satan</hi> as well as
+twenty. Neither will <hi>God</hi> alow thoſe things in his owne children, which he may permit in ſtrangers.</p>
+            <p>As for that common, and ſottiſh excuſe of others, or every one doth ſo, therefore of neceſſity I muſt
+now and then drinke with them: leaſt they count me rude and uncivill. It ſavors ſo much of ignorance,
+and unbeleife, that I hope none who are converſant in the word, will offer to aleadge it; Well may it be<g ref="char:EOLhyphen"/>come
+blind worldlings, who have no other rule but cuſtome, example, and their owne will to walke by<g ref="char:punc">▪</g>
+but its very unbeſeeming a beleiver. Yet leaſt this plea, ſhould find place in your thoughts, (for the <hi>heart
+of man is deceitfull above all things.)</hi>
+            </p>
+            <p>I anſwer; Gods precepts, muſt be our only preſidents. Yea, if your heart be not wicked, cuſtome and
+example will no more ſway you, then it doth others of Gods people; who <hi>ſhine as lights in the midſt of
+a crooked generation.</hi> Yea, you will <hi>redeeme the time, becauſe the dayes are evill. Epheſ.</hi> 5. 15. 16. If
+grace doe bare ſway in your heart and not the love of the world: you will not make the badnes of the times
+<pb n="7" facs="tcp:121099:6"/>
+and your calling, a cloake to excuſe your conformity in drinking, and waſting your precious houres wic<g ref="char:EOLhyphen"/>kedly;
+but rather a ſpurr to incite you, to be ſo much the more carefull not to be ſwayed with the
+common ſtreame.</p>
+            <p>And as for their good, or evill report, were your eyes open to ſee this <hi>deepneſſe of Satan,</hi> whoſe Agents
+they are, and what their ayme and endeavour is; you would count their diſpraiſe an honour, their praiſe a
+diſhonour.</p>
+            <p>Laſtly, As touching the loſſe of your cuſtomers, and undoing your ſelfe if you ſhould not be ſociable
+with, and pleaſing to them: I would faine know? whether you beleeve <hi>Gods word?</hi> If you doe, read
+the 28. chapter of <hi>Deuteronomie Mat. 6. 25. Pſal. 37. Marke 10. 30. Acts 17. 25. 1 Pet.</hi> 5. 7. toge<g ref="char:EOLhyphen"/>ther
+with that of <hi>Paul</hi> to <hi>Timothy; Bodily excerciſe profiteth little, but Godlines is profitable unto all
+things; having the promiſes of the life that now is, and of that which is to come. 1 Tim</hi> 4. 8. If you doe
+indeed beleive theſe and many the like ſcriptures to be <hi>Gods word,</hi> take his word: at leaſt try whether he
+be worth the truſting. Who hath ſaid <hi>I will not faile thee neither forſake thee. Heb.</hi> 13. 5. 6. Shall I (for
+your better encouragement, the honour of my Lord and Maſter, to juſtifie the truth in this behalfe, to
+diſcharge my duty, &amp;c. though I hazard the imputation of a foole) ſpeake what I have experimentally
+found? Yes, <hi>I will become a foole in this my preſent boaſting, for yee have compelled me.</hi> Time was that
+in ſerving the Common wealth, I gained in a lawfull, and laudable way five hundreth pounds, per Annum
+if not a thouſand, all loſſes, and expences defraied; but <hi>being unthankfull and becomming vaine in my
+imaginations;</hi> not once intending (by reaſon of a <hi>fooliſh &amp; dark heart)</hi> to glorifie God with my ſubſtance:
+what I earned, <hi>God did blow upon, and it was put into a bag with holes, Hag.</hi> 1. 6. 9 For my eſtate ra<g ref="char:EOLhyphen"/>ther
+leſſened then increaſed; and thrice happie for me, that it fell out ſo: for I had utterly periſhed in my
+ſoule: if I had proſpered in my eſtate, for this brought me on my knees, and humbled me to the very
+ground: made me reforme what ſo ever I conceived might diſpleaſe God, (as touching the <hi>Sabbath</hi> and
+the like) and make vowes, of new and better obedience: ſo farre as he ſhould give me grace, and likewiſe
+indent with him, that in caſe he ſhould bleſſe me with a conveniencie, that <hi>I</hi> might not be a ſcorne to the
+world: I would returne to him the tith of all mine increaſe; as he ſhould be pleaſed to direct. Whereupon
+for ſundery yeares after, though my meanes of getting failed, and to the eye of reaſon my neceſſary expen<g ref="char:EOLhyphen"/>ces,
+were farre more then my gettings: <hi>God</hi> did ſo bleſſe and proſper me: that I purſt up two or three
+hundreth pounds a yeare. Which to me appeared miraculous: for no reaſon could be given of this his mer<g ref="char:EOLhyphen"/>cy,
+but his mercy: and <hi>O the depth. I ſpeake it before God in Chriſt, who knoweth that I lye not, my con<g ref="char:EOLhyphen"/>ſcience
+alſo bearing me witneſſe in the Holy Ghoſt;</hi> that I ſpeake it only to Gods glory, whoſe goodneſſe
+conſtraines me, though I could have ſpoken as much, of that reverend Divine Mr. <hi>Wheatly;</hi> and many o<g ref="char:EOLhyphen"/>thers
+that I have converſt with. And why all this? but to verifie what the Lord ſpeakes by the Prophet
+<hi>Haggai</hi> 1 and 2 Chapters—Which I pray read at your leaſure. So that when all is done, giving
+and looſing, rather then ſinning, is the way to grow rich. <hi>Pro.</hi> 19. 17. and 22. 9. and 28. 27. <hi>Mat.</hi> 19
+29.</p>
+            <p>And in reaſon; If <hi>riſing <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>early, going to bed late, and eating the bread of carefulnes</hi> will not make
+rich, without <hi>Gods bleſſing</hi> upon it <hi>Pſal.</hi> 127. 1, 2. much leſſe will drinking doe it. And what a baſe,
+and unworthy thing is it to thinke, that <hi>God</hi> will let us be looſers by our ſerving of him. Indeed an an<g ref="char:EOLhyphen"/>cient
+acquaintance of mine, working to Gentlemen (who would have their Bootes brought home on Sab<g ref="char:EOLhyphen"/>bath
+day mornings) for ſome yeares together durſt not breake that no leſſe wicked then common cuſtome;
+though it was much againſt his judgement: for feare of looſing them, and undoing himſelfe. But at length
+he gathers courage, and reſolves rather to diſpleaſe them all, then anger <hi>God</hi> and his <hi>conſcience</hi> as he had
+formerly done. Whereupon, no leſſe then threeſcore of his beſt cuſtomers forſooke him; which in all pro<g ref="char:EOLhyphen"/>bability
+would prove his undoing. But he loſt nothing by it; for contrarily from that day, he began to
+thrive in his eſtate; which he could never doe before. As his wife, friends, and ſervants did averr after his
+death, and are ſtill alive to witneſſe.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you ſhould not only looſe your cuſtomers, but undoe your ſelfe by refuſing to drinke with
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; what then? will you therefore with <hi>Demas, forſake Chriſt to imbrace this preſent world?</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> then poſſible, that if God ſhould give you riches, they would doe you hurt, and prove your
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: That it would prove like the putting of a <hi>ſword</hi> into a mad mans hand, for not ſeldome, as we grow
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in temporalls, we grow poore in ſpiritualls. Well might this ad to your content, but it would endanger
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſoule. You are <hi>Gods Patient,</hi> preſcribe not your <hi>Phyſitian;</hi> be not wiſer th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n he.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Nurſe</hi> knowes better then the <hi>Child,</hi> what is good &amp; fit for it. and indeed no man would be more
+miſerable, <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:121099:7"/>
+and pittie upon the groſſe miſopinions, and miſpriſions of others. <hi>Rom. 9. 3. John</hi> 4.
+28. 29. And what knoweſt thou O man, whether thou ſhalt ſave thy brother. 1 <hi>Cor.</hi>
+7. 16. 2 <hi>Tim.</hi> 2. 24. 25. For a word ſeaſonably ſpoken, (God bleſſing it) like a rud<g ref="char:EOLhyphen"/>der
+ſometimes ſteeres a man quite into another courſe. Yea, how many have I knowne
+to bleſſe the time, that ever they were plainly dealt withall. And certainly there could
+never be ſuch bowſing, and quaffing, and whiffing, and healthing, ſuch reeling, and
+ſtaggering, and ſtabbing, (both with tongue and hand) where the Goſpel is ſo gloriouſly
+taught: if men were but ſo happie, as to meet with timely and faithfull admonition.
+But this is the miſery, that which worldly men call diſcretion, hath eate up all true
+wiſedome, and devotion.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>John Downame.</signed>
+            </closer>
+         </div>
+         <trailer>FJNJS.<pb n="10" facs="tcp:121099:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:121099:8"/>
+         </trailer>
+      </back>
+   </text>
+</TEI>
